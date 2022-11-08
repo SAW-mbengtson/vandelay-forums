@@ -1,4 +1,5 @@
 {
+    "engine":"adobe@2021",
     "web":{
         "rewrites":{
             "enable":"true"
